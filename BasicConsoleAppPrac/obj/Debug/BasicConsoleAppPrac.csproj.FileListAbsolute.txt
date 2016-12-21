@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\BasicConsoleAppPrac\BasicConsoleAppPrac\bin\Debug\BasicConsoleAppPrac.exe.config
+c:\users\user\documents\visual studio 2015\Projects\BasicConsoleAppPrac\BasicConsoleAppPrac\bin\Debug\BasicConsoleAppPrac.exe
+c:\users\user\documents\visual studio 2015\Projects\BasicConsoleAppPrac\BasicConsoleAppPrac\bin\Debug\BasicConsoleAppPrac.pdb
+c:\users\user\documents\visual studio 2015\Projects\BasicConsoleAppPrac\BasicConsoleAppPrac\obj\Debug\BasicConsoleAppPrac.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\BasicConsoleAppPrac\BasicConsoleAppPrac\obj\Debug\BasicConsoleAppPrac.exe
+c:\users\user\documents\visual studio 2015\Projects\BasicConsoleAppPrac\BasicConsoleAppPrac\obj\Debug\BasicConsoleAppPrac.pdb
